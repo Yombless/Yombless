@@ -1,7 +1,9 @@
 - 👋 Hi, I’m @Yombless
-- 👀 I’m data scientist in health and well-being
-- 🌱 I’m currently learning machine learning
-- 💞️ I’m looking to collaborate on medical practitionist to work on genomics
+- 👀 My PhD research is in Visualisations of Bayesian hierarchical models
+- 💞️ My interest are visalisation, Bayesian hierarchical models, spatio-temporal data analysis
+- 🌱 I’m currently creating visulas for Bayesian hierarchical models
+- 💞️ I’m looking to collaborate with Bayesian analyst to work on health-related spatio-temporal data
+- - 👀 I’m data scientist in health and well-being
 - 📫 You can reach me with my email address: oluwayomi.akinfenwa.2022@mumail.ie
 
 <!---
