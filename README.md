@@ -3,7 +3,7 @@
 - 💞️ My interest are visalisation, Bayesian hierarchical models, spatio-temporal data analysis
 - 🌱 I’m currently creating visulas for Bayesian hierarchical models
 - 💞️ I’m looking to collaborate with Bayesian analyst to work on health-related spatio-temporal data
-- - 👀 I’m data scientist in health and well-being
+- 👀 I’m data scientist in health and well-being
 - 📫 You can reach me with my email address: oluwayomi.akinfenwa.2022@mumail.ie
 
 <!---
